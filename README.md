@@ -4,7 +4,7 @@ This Python script generates Pmask URLs by modifying and masking phishing URLs. 
 
 ## Credits
 
-This script was originally created by jaykali. You can find the original code at [GitHub - jaykali/MaskPhish](https://github.com/jaykali/MaskPhish). The script has been modified by Your Name to add additional functionality and improve user experience.
+This script was originally created by jaykali. You can find the original code at [GitHub - jaykali/MaskPhish](https://github.com/jaykali/MaskPhish). The script has been modified by Iampopg to add additional functionality and improve user experience.
 
 ## Usage
 
@@ -26,7 +26,7 @@ If you would like to contribute to this project, you can fork the repository and
 
 ## License
 
-This script is released under the MIT License. See [LICENSE](LICENSE) file for more information.
+##########
 
 
 INSTALLATION
