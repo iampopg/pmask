@@ -43,4 +43,3 @@ python Pmask.py
 
 
 email:iampopg@proton.me
-all_media='iampopg'
