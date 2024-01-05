@@ -5,7 +5,6 @@ import requests
 # Modified by iampopg
 # Email: iampopg@protonmail.com
 # github: https://github.com/iampopg
-# All_medias: iampopg
 
 
 class Pmask:
